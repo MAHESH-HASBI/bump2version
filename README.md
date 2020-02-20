@@ -1,11 +1,11 @@
 # bump2version
-
+			
 [![image](https://img.shields.io/pypi/v/bump2version.svg)](https://pypi.org/project/bump2version/)
 [![image](https://img.shields.io/pypi/l/bump2version.svg)](https://pypi.org/project/bump2version/)
 [![image](https://img.shields.io/pypi/pyversions/bump2version.svg)](https://pypi.org/project/bump2version/)
 [![Travis](https://img.shields.io/travis/c4urself/bump2version/master.svg?logo=travis)](https://travis-ci.org/c4urself/bump2version)
 [![AppVeyor](https://img.shields.io/appveyor/ci/c4urself/bump2version.svg?logo=appveyor)](https://ci.appveyor.com/project/c4urself/bump2version)
-
+	
 ## NOTE
 
 This is an interim fork of the excellent project that can be found here: https://github.com/peritus/bumpversion
